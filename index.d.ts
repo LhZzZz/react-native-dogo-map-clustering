@@ -1,7 +1,7 @@
 declare module "react-native-map-clustering" {
   import * as React from "react";
   import { LayoutAnimationConfig } from "react-native";
-  import Map, { MapViewProps, Marker } from "react-native-maps";
+  import Map, { MapViewProps, Marker } from "react-native-dogo-map";
 
   export type Cluster = {};
 
